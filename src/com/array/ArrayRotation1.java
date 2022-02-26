@@ -27,7 +27,7 @@ public class ArrayRotation1 {
     }
     private static void arrayPrint(int[] arr){
         for (int a:arr)
-            System.out.println(a);
+            System.out.print(a);
     }
 
     public static void main(String[] args) {
