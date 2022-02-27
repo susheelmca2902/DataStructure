@@ -1,8 +1,8 @@
-package com.array;
+package com.array.rotation;
 
 import java.util.Arrays;
 
-public class ArrayRotation1 {
+public class ReverseAlgo {
 
     private static void leftRotation(int[] arr, int d) {
         if(d ==0)
